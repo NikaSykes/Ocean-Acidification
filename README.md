@@ -7,11 +7,11 @@ The scientific question this project asks is: Is the affect of ocean acidication
 In order to invesigate this question, real world data from various locations was used.
 
 data here
-This project compaires the average ph levels at three different locations, Miami Florida, Hawaii and Bay of Bundby.
+This project compaires the average ph levels at three different locations, Miami Florida, Hawaii and Bay of Bengal.
 The data used for this project is from ...
 
 software needed
-This project was done using Jupyter notebook (Python 3 version), launched from Anaconda. 
+This project was done using Jupyter notebook (Python 3 version), launched from Anaconda Navigator. 
 
 For this project the ph levels were ploted to see the range of the ph levels at each location.
 The average ph level at each location was calculated for comparison between locations.

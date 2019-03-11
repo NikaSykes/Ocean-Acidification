@@ -30,7 +30,7 @@ The specific data files I use for this project are also included in the file sec
 # Analysis and Results
 For this project the pH levels were plotted to see the range of the pH levels at each location. 
 The average pH level at each location was calculated for comparison between locations.
-Sample of the results: the pH levels recorded for the West coast data:
+Sample of the results for the West coast data:
 pH average:
 7.5637305825242676
 pH range:

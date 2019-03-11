@@ -21,13 +21,14 @@ From these, I selected three resulting cases that were in different locations.
 The specific data used for this project can be found at the following links. 
 At these pages, I clicked on download data and selected one .csv data file to use for each location. 
 
-East coast: https://www.nodc.noaa.gov/ocads/data/0144340.xml 
+East Coast: https://www.nodc.noaa.gov/archive/arc0086/0144340/1.1/data/0-data/ 
 
-West coast: https://www.nodc.noaa.gov/oads/data/0123467.xml
+West Coast: https://www.nodc.noaa.gov/archive/arc0072/0123467/2.2/data/1-data/
 
-Honolulu, Hawaii: https://www.nodc.noaa.gov/oads/data/0132048.xml 
+Hawaii: https://www.nodc.noaa.gov/archive/arc0080/0132048/1.1/data/1-data/  
 
-Bay of Bengal: https://www.nodc.noaa.gov/ocads/data/0162473.xml  
+Bay of Bengal: https://www.nodc.noaa.gov/archive/arc0107/0162473/2.2/data/0-data/
+ 
 
 The specific data files I use for this project are also included in the file sections of this repository.
 

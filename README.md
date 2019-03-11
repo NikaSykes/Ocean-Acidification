@@ -32,7 +32,9 @@ For this project the pH levels were plotted to see the range of the pH levels at
 The average pH level at each location was calculated for comparison between locations.
 
 Sample of the results for the West coast data:
+
 pH average: 7.5637305825242676
+
 pH range: [7.218, 8.203]
 
 A special note: for data used in this project there were some readings of pH at -999. pH levels can not be lower than 0. 
